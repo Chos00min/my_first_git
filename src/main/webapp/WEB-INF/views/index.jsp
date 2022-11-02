@@ -18,4 +18,8 @@
 		<li>신규개발1</li>
 	</ul>
 </body>
+<script>
+	var obj ={};
+	obj.name ="조수민"
+</script>
 </html>
